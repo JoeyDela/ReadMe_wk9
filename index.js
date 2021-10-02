@@ -87,7 +87,7 @@ inquirer
     `
     
     var fs = require("fs"); 
-    fs.writeFile("Readme.md", readMe, (error) => {
+    fs.writeFile("../Readme/Readme.md", readMe, (error) => {
         error ? console.error(error) : console.log("ReadMe Finished!")
     })
 });
