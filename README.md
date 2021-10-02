@@ -1,21 +1,21 @@
 
-    [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+    [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
     # repo name
-    lkds
+    sldkj
     # description
-    dlkjsd
+    dslfjdf
     # Usage
-    lkdfjsld
+    dflksdj
     # installation
-    dkjsdl
+    dslfkds
     # contributor
-    lkdjlfdks
+    dsflk
     # test
-    kldfls
+    sdlfk
     # license
     
     # name
-    lskdjf
+    sdlkjf
     # email
-    sldkfj
+    dlfkjs
     
